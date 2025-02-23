@@ -38,10 +38,10 @@
   Healthcare , marketing , research , cybersecurity , banking .
 ## Correlation Vs. Causation
 ## Ethics in AI
-   Privacy 
-   Transparency
-   Fairness 
-   Saftey
-   Accountability 
-   Respect for Human values
+   Privacy ,
+   Transparency ,
+   Fairness ,
+   Saftey,
+   Accountability ,
+   Respect for Human values.
 
